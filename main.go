@@ -8,4 +8,5 @@ func main() {
 	PrintfUse()
 	TakingInput()
 	Functions()
+	ErrorHandling()
 }
