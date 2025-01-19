@@ -14,4 +14,11 @@ func main() {
 	// SwitchCase()
 	// Ifelse()
 	// ForLoop()
+	// Maps()
+	// Structs()
+	// Pointers()
+	// DataTypeConv()
+	// Strings()
+	// Time()
+	Defers()
 }
