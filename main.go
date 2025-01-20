@@ -20,5 +20,11 @@ func main() {
 	// DataTypeConv()
 	// Strings()
 	// Time()
-	Defers()
+	// Defers()
+	// FileWrite()
+	// FileRead()
+	// WebRequests()
+	// Url()
+	// Json()
+	CRUD()
 }
